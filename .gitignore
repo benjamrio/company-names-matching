@@ -1,3 +1,4 @@
-data/
+data/*
+!data/top500verifCom.tsv
 env/
 *__pycache__
