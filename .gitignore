@@ -1,4 +1,5 @@
 data/*
 !data/top500verifCom.tsv
+!data/siren_table.csv
 env/
 *__pycache__
