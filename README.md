@@ -1,4 +1,4 @@
-# Company Name Matching
+# Company Names Matching
 Match a list of company names written with humans (containing spelling mistakes, non standards names, word inversions, ...) with a list of *lookup* company names. In the context of fuzzy matching, this can be very useful. For example, a user enters his company in a form, and you have to match it with a list of *official names*. Keep in mind that company names are not unique. It is therefore great to use a smaller *lookup* dataset, for exemple a dataset containing client companies of your company or a dataset containing target companies (e.g. S&P500)
 
 ## Method
